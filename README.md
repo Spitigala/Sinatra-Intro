@@ -15,7 +15,7 @@ Sinatra is a framework for creating web apps with Ruby. Have you heard of Ruby o
 
 In your spare time, you should take a look at the [Sinatra Website](http://www.sinatrarb.com), and especially their [docs](http://www.sinatrarb.com/intro.html). 
 
-Let's move on to understanding Sinatra's file structure. If you have the repository cloned, then jump in to the Sinatra_Skeleton folder.
+Let's move on to understanding Sinatra's file structure. If you have the repository cloned, then jump in to the Sinatra-Intro folder.
 
 ### What are all these files and folders?
 
