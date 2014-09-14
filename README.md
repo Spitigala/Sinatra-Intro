@@ -19,9 +19,9 @@ Let's move on to understanding Sinatra's file structure. If you have the reposit
 
 ### What are all these files and folders?
 
-Up until now, you have probably been working with challenges involving just a handful of ruby files. If you take a look at the Sinatra-Intro folder, you will see a bunch of files and folders that may seem unfamiliar. Wait! Don't run away! There's nothing to be scared of.
+Up until now, you have probably been working with challenges involving just one or two files. If you take a look at the Sinatra-Intro folder, you will see a bunch of files and folders that may seem unfamiliar. Wait! Don't run away! There's nothing to be scared of.
 
-we'll go through these files and folders to understand what they do and how they're connected. But I do want to point out something. The reason why this sinatra app is structured this way is because Dev Bootcamp wants you to get used to how things will work when you move on to learning the Ruby on Rails framework. Being exposed to this structure with Sinatra will make the transition smoother. However, if you really wanted to (and not that you ever should), you CAN build a Sinatra app with a single file. That's right. AN ENTIRE SINATRA APP CAN BE BUILT WITH A SINGLE FILE. But we'll use the the multi-file approach because it will help us organize our code better, and again, it will help you see how real web apps are structured. Let's explore!
+We'll go through these files and folders to understand what they do and how they're connected. But I do want to point out something. The reason why this sinatra app is structured this way is because Dev Bootcamp wants you to get used to how things will work when you move on to learning the Ruby on Rails framework. Being exposed to this structure with Sinatra will make the transition smoother. However, if you really wanted to (and not that you ever should), you CAN build a Sinatra app with a single file. That's right. AN ENTIRE SINATRA APP CAN BE BUILT WITH A SINGLE FILE. But we'll use the the multi-file approach because it will help us organize our code better, and again, it will help you see how real web apps are structured. Let's explore!
 
 #### 1. The app folder
 
